@@ -14,3 +14,4 @@ technical explorations to learn about
 * revise R programming from https://www.coursera.org/learn/r-programming
 * complete udemy training on algorithm while coding from https://www.udemy.com/course/introduction-to-data-structures-algorithms-in-java/learn/lecture/558134#overview
 * complete angular 8 training as par https://www.udemy.com/course/the-complete-guide-to-angular-2/learn/lecture/6655698#overview
+* complete kubernetes training as par https://www.udemy.com/course/kubernetes-microservices/learn/lecture/11156700#overview
